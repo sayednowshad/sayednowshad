@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Hi there! 👋 I'm Sayed Nowshad, an aspiring front-end developer with a passion on High Level , responsive, and user-friendly websites.<br><br>About Me :<br><br>⭐ Focus :      Currently diving deep into JavaScript, HTML, and CSS.<br>⭐ Projects  : Experimenting with small projects to hone my skills and bring ideas to life.<br>⭐ Journey  :   Continuously learning and exploring new techniques in web development.<br>⭐ Showcase : Sharing my progress through a collection of tiny projects on GitHub.<br>⭐ Collaboration : Open to connecting, chatting, or collaborating on new ideas.
 
 
