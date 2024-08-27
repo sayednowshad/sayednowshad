@@ -1,7 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayednowshad&label=Profile%20views&color=0e75b6&style=flat" alt="sayednowshad" /> </p>
-
+<h3 align="center">A passionate frontend developer , DataBase & DSA in (JAVA) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayednowshad&show_icons=true&locale=en" alt="sayednowshad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad&" alt="sayednowshad" /></p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
