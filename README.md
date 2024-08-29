@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer , DataBase & a STRONG Foundation in DSA (JAVA) </h3>
+<h3 align="center"><b>  A passionate Frontend Developer , DataBase & STRONG Foundation in DSA (JAVA)  </b></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
