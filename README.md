@@ -21,7 +21,7 @@
 
 <!--this is my Hacktoberfest Bagde for register  !-->
 
-<h2> <b> My HacktoberFest Badges </b> </h2>
+<h2> <b> My New Badges </b> </h2>
 
  <a href="https://hacktoberfest.com" target="_blank">
         <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge" class="badge"  width="130" height="160" margin-top : 20px;>
