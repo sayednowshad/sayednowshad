@@ -23,9 +23,4 @@
 
 <h2> <b> My New Badges </b> </h2>
 
- <a href="https://hacktoberfest.com" target="_blank">
-  
-        <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge" class="badge"  width="130" height="160" margin-top : 20px; margin-left : 50px;>
-
-        <img src="file:///D:/APPS/OneDrive%20-%20Lovely%20Professional%20University/Desktop/level_01.webp" alt="Hacktoberfest Badge" class="badge"  width="130" height="160" margin-top : 20px;>
-    </a>
+[![An image of @sayednowshad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayednowshad)](https://holopin.io/@sayednowshad)
