@@ -21,6 +21,6 @@
 
 <!--this is my Hacktoberfest Bagde for register  !-->
 
-<h2> <b> My New Badges </b> </h2>
+<h2> <b> My Holopin Badges </b> </h2>
 
 [![An image of @sayednowshad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayednowshad)](https://holopin.io/@sayednowshad)
