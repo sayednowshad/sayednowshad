@@ -1,4 +1,4 @@
- <h3 align="center"><b>  [  A Passionate Web Developement, DSA (JAVA) , UI/UX Designer  ]  </b></h3>
+ <h1 align="center"><b>  [  A Passionate Web Developement, DSA (JAVA) , UI/UX Designer  ]  </b></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
