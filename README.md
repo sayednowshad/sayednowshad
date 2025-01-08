@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayednowshad&show_icons=true&locale=en" alt="sayednowshad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad&" alt="sayednowshad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad" alt="sayednowshad" /></p>
 
 <!--this is my Hacktoberfest Bagde for register  !-->
 
