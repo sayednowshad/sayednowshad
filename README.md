@@ -1,4 +1,4 @@
- <h1 align="center"><b>  Java Developer, DSA, UI/UX Designer, Chrome Extension Developer  </b></h1>
+ <h1 align="center"><b>  Java Developer, DSA, UI/UX Designer, Chrome Extension Developer, Block Chain </b></h1>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
