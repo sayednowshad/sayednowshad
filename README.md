@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=1500&color=00FFD9&center=true&vCenter=true&width=850&height=50&lines=👋+I'm+Sayed+Nowshad.;💻+Java+Developer+by+day...+still+Java+Developer+by+night.;🎨+UI%2FUX+Designer+%7C+I+make+pixels+behave.;🧠+DSA+in+Java+%7C+Solving+bugs+and+existential+crises.;🧩+Chrome+Extension+Dev+%7C+I+don’t+just+browse+the+web...+I+upgrade+it.💥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1600&pause=1500&color=00FFD9&center=true&vCenter=true&width=850&height=50&lines=👨‍💻+I+am+Sayed+Nowshad...;☕+Java+Full+Stack+Developer...;🎨+UI%2FUX+Designer+with+Strong+Design+Systems...;📊+DSA+in+Java+%7C+Structured+Problem+Solving...;🧩+Chrome+Extension+Developer...;Focused+on+problem+solving+Optimized+solution+High+Performance." alt="Typing SVG" />
 </p>
 
 ---
