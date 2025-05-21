@@ -1,4 +1,4 @@
- <h1 align="center"><b>  Java Developer, DSA, UI/UX Designer </b></h1>
+ <h1 align="center"><b>  Java Full Stack Developer, UI/UX Designer, DSA </b></h1>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
