@@ -25,15 +25,8 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| `🧬 Resume Analyzer` | Spring Boot + React + H2 | Resume vs JD Skill Matching Engine |
-| `🌾 Digital Farmer` | React + Firebase | AI Crop Suggestions, Weather, Subsidies |
-| `🐀 Clinical Trail Innovation` | React + Spring Boot + Chart.js | Virtual Medicine Testing (No real animals) |
-| `💼 Internship Scraper` | Java + Selenium + H2 | Internshala, Glassdoors,Naukri API's scraping with DB storage |
-| `🧠 FrontEndPro` | Vite + React | Project Gallery App for UI Component Display |
+
 
 ---
 
