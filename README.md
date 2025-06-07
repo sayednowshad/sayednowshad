@@ -14,6 +14,15 @@
 
 ---
 
+## 🧠 Who is Sayed Nowshad?
+
+> A Full Stack Developer, UI/UX Wizard, and Project Machine with a vision to dominate tech with clarity, discipline, and raw creativity.
+
+- 🔥 **Tech Arsenal**: [ Java, Spring Boot, React, Firebase, MongoDB, Selenium, Chrome Extensions ]
+- 🧠 **Design Mindset**: [ Figma Master, Tailwind Aesthetic, User-First UX ]
+- 💼 **Projects Built**: [ Resume Analyzer, Digital Farmer, Clinical Trail Innovation, Internship Scraper, and more ]
+- 🎯 **Focus**: [ Precision, Speed, and Real-World Impact ]
+
 ---
 
 ## ⚒️ Toolbox of the Titan
