@@ -46,7 +46,7 @@
 
 ---
 
-## 🔗 Connect with the Code Commander
+## 🔗 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayed-nowshad-6b695228b/" target="_blank">
@@ -58,11 +58,15 @@
   <a href="https://www.behance.net/sayednowshad">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-  <a href="https://holopin.io/@sayednowshad">
-    <img src="https://img.shields.io/badge/-Holopin-BadgeBoard-6E38F7?style=for-the-badge&logo=holopin&logoColor=white" />
-  </a>
   
 </p>
+
+
+
+## 🏅 My Holopin Badges
+
+[![@sayednowshad's Holopin board](https://holopin.me/sayednowshad/board?theme=light)](https://holopin.me/sayednowshad)
+
 
 ---
 
