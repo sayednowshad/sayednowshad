@@ -1,6 +1,6 @@
 <!-- README.md for THE BOSS - SAYED NOWSHAD -->
 
-<h1 align="center">👑 Sayed Nowshad The Architect of Code & Design</h1>
+<h1 align="center">👑 Sayed Nowshad The Architect of Code & Freelancer as Designer</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="450" height="350" style="border-radius: 12px;"/>
