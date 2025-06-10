@@ -18,9 +18,9 @@
 
 > A Full Stack Developer, UI/UX Wizard, and Project Machine with a vision to dominate tech with clarity, discipline, and raw creativity.
 
-- 🔥 **Tech Arsenal**: [ Java, Spring Boot, React, Firebase, MongoDB, Selenium, Chrome Extensions ]
+- 🔥 **Tech Arsenal**: [ Java, Spring Boot, React, Firebase, MongoDB, Selenium, Chrome Extensions, Figma, Freelancer ]
 - 🧠 **Design Mindset**: [ Figma Master, Tailwind Aesthetic, User-First UX ]
-- 💼 **Projects Built**: [ Resume Analyzer, Digital Farmer, Clinical Trail Innovation, Internship Scraper, and more ]
+- 💼 **Projects Built**: [ Resume Analyzer, Digital Farmer, Clinical Trail Innovation, Job with JD Scraper, and more... ]
 - 🎯 **Focus**: [ Precision, Speed, and Real-World Impact ]
 
 ---
