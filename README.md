@@ -4,8 +4,17 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="450" height="350" style="border-radius: 12px;"/>
-
 </p>
+
+<h3 align="center">🏆 LeetCode Streak Badge</h3>
+
+<p align="center">
+  <a href="[https://leetcode.com/YOUR_USERNAME/](https://leetcode.com/u/SayedvNowshad/)" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" />
+  </a>
+</p>
+
+
 
 <p align="center">
 
