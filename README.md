@@ -2,16 +2,14 @@
 
 <h1 align="center"> Sayed Nowshad The Architect of Code & Freelancer as Designer</h1>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="450" height="350" style="border-radius: 12px;"/>
 </p>
 
-
-<h3 align="center">🏆 LeetCode Streak Badge</h3>
-
 <p align="center">
   <a>
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="pointer-events: none;" />
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: block; margin: auto; pointer-events: none; image-rendering: -webkit-optimize-contrast;" />
   </a>
 </p>
 
