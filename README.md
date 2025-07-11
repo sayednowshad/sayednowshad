@@ -55,7 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayednowshad&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
 </p>
 
----
 
 ## 🔗 Connect with me
 
@@ -69,17 +68,7 @@
   <a href="https://www.behance.net/sayednowshad">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-  
 </p>
-
-
-
-## 🏅 My Holopin Badges
-
-[![@sayednowshad's Holopin board](https://holopin.me/sayednowshad/board?theme=light)](https://holopin.me/sayednowshad)
-
-
----
 
 ## 🔥 Bonus Heat
 
