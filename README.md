@@ -1,6 +1,6 @@
 <!-- README.md for THE BOSS - SAYED NOWSHAD -->
 
-<h1 align="center"> Sayed Nowshad Creative Minds Connects With Me</h1>
+<h1 align="center"> Sayed Nowshad ~ just think different </h1>
 
 
 <p align="center">
