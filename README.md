@@ -51,9 +51,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<!--- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayednowshad&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
-</p>
+</p> --->
 
 
 ## 🔗 Connect with me
@@ -69,10 +69,3 @@
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </p>
-
-## 🔥 Bonus Heat
-
-```bash
-# Strictly Disciplined. Fiercely Curious. Limitlessly Creative.
-# No Motivation Needed. I Run on Vision + Execution.
-# This isn't a GitHub profile. This is a War Room.
