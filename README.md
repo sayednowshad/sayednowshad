@@ -37,7 +37,7 @@
 ## ⚒️ Toolbox of the Titan
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,cpp,python,firebase,mysql,mongodb,selenium,nodejs,express,html,css,vite,tailwind,xd,figma,postman,tensorflow,opencv,git,github,vercel,docker,linux,vscode,py,chrome&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,firebase,mysql,mongodb,selenium,nodejs,html,css,vite,tailwind,xd,figma,postman,tensorflow,opencv,git,github,vercel,docker,linux,vscode,solidity,chrome&perline=10" />
 
 
 </p>
