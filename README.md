@@ -2,7 +2,6 @@
 
 <h1 align="center"> Sayed Nowshad ~ just think different </h1>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" height="350" style="border-radius: 12px;"/>
 </p>
@@ -12,9 +11,6 @@
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: block; margin: auto; pointer-events: none; image-rendering: -webkit-optimize-contrast;" />
   </a>
 </p>
-
-
-
 
 <p align="center">
 
@@ -37,7 +33,9 @@
 ## ⚒️ Toolbox of the Titan
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,firebase,mysql,mongodb,selenium,nodejs,html,css,vite,tailwind,xd,figma,postman,tensorflow,opencv,git,github,vercel,docker,linux,vscode,solidity,chrome&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,firebase,mysql,mongodb,selenium,nodejs,html,css,vite,tailwind,xd,figma,postman,tensorflow,opencv,git,github,vercel,docker,linux,vscode,solidity,chrome,blockchain&perline=10" />
+ 
+
 
 
 </p>
