@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: block; margin: auto; pointer-events: none; image-rendering: -webkit-optimize-contrast;" />
-     <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="BlockChain Badge" width="200" style="display: block; margin: auto; pointer-events: none" />
-  </a>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: inline-block; margin: 10px;" />
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days Badge" width="200" style="display: inline-block; margin: 10px;" />
+  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" />
 </p>
 
 <p align="center">
