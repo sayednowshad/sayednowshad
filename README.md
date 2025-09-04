@@ -7,10 +7,10 @@
 </p>
 
  <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: inline-block; margin: 10px;" /> 
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days Badge" width="200" style="display: inline-block; margin: 10px;" />
-   <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="August Badge" width="200" style="display: inline-block; margin: 10px;" />
-  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> 
+<!--   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: inline-block; margin: 10px;" />  -->
+<!--   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days Badge" width="200" style="display: inline-block; margin: 10px;" /> -->
+<!--    <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="August Badge" width="200" style="display: inline-block; margin: 10px;" /> -->
+<!--   <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" />  -->
 </p>
 
 <p align="center">
