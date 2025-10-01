@@ -27,7 +27,7 @@
 
 > <strong> 3. </strong> **Design Mindset**:  Blender, Figma Mastery, Tailwind, User-First UX 
 
-> <strong> 4. </strong>  **Projects Built**: Resume Analyzer, Digital Farmer, Clinical Trial Innovation, LinkedIn JD Scraper, NFT Marketplace, DeFi Dashboard...
+> <strong> 4. </strong>  **Projects Built**: Resume Analyzer, Take-It, Docs SHA-256 , Clinical Trial Innovation, LinkedIn JD Scraper, NFT Marketplace, DeFi Dashboard...
 
 > <strong> 5. </strong>  **Focus**: Creativity++, Speed with Real-World Impact
 
