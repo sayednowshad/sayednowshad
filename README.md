@@ -1,8 +1,4 @@
-<br>
-
 <h1 align="center">  ⚡Sayed Nowshad ~ Just Think Different ⚡ </h1>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" height="350" style="border-radius: 12px;"/>
@@ -23,8 +19,6 @@
  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> 
 </p>
 
-<br>
-
 <h1 align="center">  ⚡Who Am I?⚡ </h1>
 
 > <strong> 1. </strong>   A Full Stack Developer, UI/UX Wizard, and Project Machine with a vision to dominate tech with clarity, discipline, and raw creativity.
@@ -39,7 +33,6 @@
 
 > <strong> 6. </strong>  **IDE's**: JetBrains IntelliJ IDEA, Eclipse, WebStorm, PyCharm, Android Studio, Jupyter Notebook / Lab
 
-<br>
 
 <h1 align="center">  ⚡ Tools Of Titan ⚡ </h1>
 
@@ -47,7 +40,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,firebase,mysql,mongodb,selenium,nodejs,html,css,vite,tailwind,xd,figma,postman,tensorflow,opencv,git,github,vercel,docker,linux,vscode,solidity,chrome,blockchain&perline=10" />
 </p>
 
-<br>
  
 <h1 align="center">  ⚡ Current Statistics ⚡ </h1>
 
@@ -56,7 +48,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<br>
 
 <h1 align="center">  ⚡Most Langauges ⚡ </h1>
 
