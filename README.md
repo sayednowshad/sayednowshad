@@ -1,6 +1,6 @@
-<!-- README.md for THE BOSS - SAYED NOWSHAD -->
+ <!-- README.md for THE BOSS - SAYED NOWSHAD !-->
 
-<h1 align="center"> Sayed Nowshad ~ just think different </h1>
+<h1 align="center"> Sayed Nowshad ~ Just Think Different </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" height="350" style="border-radius: 12px;"/>
@@ -21,42 +21,41 @@
 
 ---
 
-## 🧠 Who is Sayed Nowshad?
+## Who Am I?
 
-> A Full Stack Developer, UI/UX Wizard, and Project Machine with a vision to dominate tech with clarity, discipline, and raw creativity.
+<strong> 1. </strong>   A Full Stack Developer, UI/UX Wizard, and Project Machine with a vision to dominate tech with clarity, discipline, and raw creativity.
 
-- 🔥 **Tech Arsenal**: [ Java, Spring Boot, React, Firebase, MongoDB, Chrome Extensions, Figma, Freelancer ]
-- 🧠 **Design Mindset**: [ Figma Mastery, Tailwind Aesthetic, User-First UX ]
-- 💼 **Projects Built**: [ Resume Analyzer, Digital Farmer, Clinical Trail Innovation, Job with JD Scraper, and more... ]
-- 🎯 **Focus**: [ Precision, Speed, and Real-World Impact ]
+<strong> 2. </strong> **Tech Arsenal**:  Java, Spring Boot, React, Firebase, MongoDB, Chrome Extensions, Figma, Solidity, Freelancer 
 
----
+<strong> 3. </strong> **Design Mindset**:  Blender, Figma Mastery, Tailwind, User-First UX 
 
-## ⚒️ Toolbox of the Titan
+<strong> 4. </strong>  **Projects Built**: Resume Analyzer, Digital Farmer, Clinical Trial Innovation, LinkedIn JD Scraper, NFT Marketplace, DeFi Dashboard...
+
+<strong> 5. </strong>  **Focus**: Creativity++, Speed with Real-World Impact
+
+<strong> 6. </strong>  **IDE's**: JetBrains IntelliJ IDEA, Eclipse, WebStorm, PyCharm, Android Studio, Jupyter Notebook / Lab
+
+
+##  Toolbox of Titan
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,python,firebase,mysql,mongodb,selenium,nodejs,html,css,vite,tailwind,xd,figma,postman,tensorflow,opencv,git,github,vercel,docker,linux,vscode,solidity,chrome,blockchain&perline=10" />
- 
-
-
-
 </p>
 
 ---
 
-## 📈 GitHub Flex
+##  GitHub Flex
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayednowshad&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<!--- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayednowshad&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
-</p> --->
+</p> 
 
-
-## 🔗 Connect with me
+##  Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayed-nowshad-6b695228b/" target="_blank">
