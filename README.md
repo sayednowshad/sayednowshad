@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1600&pause=1500&color=00FFD9&center=true&vCenter=true&width=850&height=50&lines=👨‍💻+I+am+Sayed+Nowshad...;☕+Enterprise+Application+Developement...;🎨+UI%2FUX+Freelancer+at+Behance...;📊+DSA+in+Java+%7C+Structured+Problem+Solving...;🧩+Chrome+Extension+Developer...;Focused+on+problem+solving+Optimized+solution+High+Performance." alt="Typing SVG" />
 </p>
 
-<h1 align="center">  ⚡Leetcode Info ⚡ </h1>
+<!-- <h1 align="center">  ⚡Leetcode Info ⚡ </h1>
 
  <p align="center">
  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge" width="200" style="display: inline-block; margin: 10px;" />  
@@ -17,7 +17,7 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="August Badge" width="200" style="display: inline-block; margin: 10px;" /> 
    <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="September Badge" width="200" style="display: inline-block; margin: 10px;" />
  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> 
-</p>
+</p> -->
 
 <h1 align="center">  ⚡Who Am I?⚡ </h1>
 
