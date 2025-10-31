@@ -49,7 +49,7 @@
 </p>
 
 
-<h1 align="center">  ⚡Most Langauges ⚡ </h1>
+<h1 align="center">  ⚡ Most Langauges ⚡ </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayednowshad&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
