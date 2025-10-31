@@ -19,7 +19,7 @@
  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> 
 </p> -->
 
-<h1 align="center">  ⚡Who Am I?⚡ </h1>
+<h1 align="center">  ⚡ Who Am I?⚡ </h1>
 
 > <strong> 1. </strong>   A Full Stack Developer, UI/UX Wizard, and Project Machine with a vision to dominate tech with clarity, discipline, and raw creativity.
 
