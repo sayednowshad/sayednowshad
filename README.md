@@ -1,7 +1,7 @@
 <h1 align="center">  ⚡ Sayed Nowshad ~ Just Think Different ⚡ </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" height="350" style="border-radius: 12px;"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="550" height="350" style="border-radius: 13px;"/>
 </p>
 
 <p align="center">
