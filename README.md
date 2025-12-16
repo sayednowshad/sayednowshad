@@ -17,7 +17,8 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="August Badge" width="200" style="display: inline-block; margin: 10px;" /> 
    <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="September Badge" width="200" style="display: inline-block; margin: 10px;" />
       <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" alt="October Badge" width="200" style="display: inline-block; margin: 10px;" />
- <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> 
+ <!---<img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> ---!>
+   
 </p> 
 
 <h1 align="center">  ⚡ Who Am I?⚡ </h1>
