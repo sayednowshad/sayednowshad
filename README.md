@@ -27,9 +27,9 @@
 
 > <strong> 2. </strong> **Tech Arsenal**:  Java, Spring Boot, React, Firebase, MongoDB, Chrome Extensions, Figma, Solidity, Freelancer 
 
-> <strong> 3. </strong> **Design Mindset**:  Blender, Figma Mastery, Tailwind, User-First UX 
+> <strong> 3. </strong> **Design Mindset**: Figma Mastery, Tailwind, User-First UX 
 
-> <strong> 4. </strong>  **Projects Built**: Resume Analyzer, Take-It, Docs SHA-256 , Clinical Trial Innovation, LinkedIn JD Scraper, NFT Marketplace, DeFi Dashboard...
+> <strong> 4. </strong>  **Projects Built**: Resume Analyzer, Docs SHA-256, SteganoGraphy Malicious Chat Detection.
 
 > <strong> 5. </strong>  **Focus**: Creativity++, Speed with Real-World Impact
 
