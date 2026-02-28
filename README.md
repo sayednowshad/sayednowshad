@@ -17,6 +17,8 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" alt="August Badge" width="200" style="display: inline-block; margin: 10px;" /> 
    <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="September Badge" width="200" style="display: inline-block; margin: 10px;" />
       <img src="https://assets.leetcode.com/static_assets/marketing/202510.gif" alt="October Badge" width="200" style="display: inline-block; margin: 10px;" />
+   <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" alt="October Badge" width="200" style="display: inline-block; margin: 10px;" />
+/>
  <!---<img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" alt="Blockchain Basics Badge" width="200" style="display: inline-block; margin: 10px;" /> ---!>
    
 </p> 
@@ -51,11 +53,11 @@
 </p>
 
 
-<h1 align="center">  ⚡ Most Langauges ⚡ </h1>
+<!-- <h1 align="center">  ⚡ Most Langauges ⚡ </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayednowshad&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
-</p> 
+</p>  -->
 
 <!-- ##  Connect with me
 
