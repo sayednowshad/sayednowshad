@@ -30,7 +30,7 @@
 
 > <strong> 3. </strong> **Design Mindset**: System Design (LLD && HLD), End-to-End Project Planning, Creative Execution Mindset.
 
-> <strong> 4. </strong>  **Projects Built & Worked On**: Startup Projects(Contributed), Facial Treatment A.I System(Python + A.I), Resume Analyzer (FSD + A.I), Docs Tampering SHA-256 (BlockChain + FSD), SteganoGraphy Malicious Chat Detection (Python + LLM + FSD), Quantum Circuit A.I Trust Meter Layer (IBM's Quantum Circuit - "Qiskit" + FSD + Python + A.I).
+> <strong> 4. </strong>  **Projects Built & Worked On**: Startup Projects (Contributed), Facial Treatment A.I System (Python + A.I), Resume Analyzer (FSD + A.I), Docs Tampering SHA-256 (BlockChain + FSD), SteganoGraphy Malicious Chat Detection (Python + LLM + FSD), Quantum Circuit A.I Trust Meter Layer (IBM's Quantum Circuit - "Qiskit" + FSD + Python + A.I).
 
 > <strong> 5. </strong>  **Focus**: It's definetly Creativity, Foucs on User Centric Problem & Creative Execution, Marketing with Business Model.
 
