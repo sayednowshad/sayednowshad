@@ -34,8 +34,7 @@
 
 > <strong> 5. </strong>  **Focus**: It's definetly Creativity, Foucs on User Centric Problem & Creative Execution, Marketing with Business Model.
 
-> <strong> 6. </strong>  **IDE's**: Any Any IDE's From NotePad++ ---> (I do Consider as IDE's) to JetBrains IntelliJ IDE's also.
-
+> <strong> 6. </strong>  **IDE's**: Notepad++ to JetBrains IntelliJ - any environment, same engineering mindset.
 
 <h1 align="center">  ⚡ Tools Of Titan ⚡ </h1>
 
