@@ -24,7 +24,7 @@
 
 <h1 align="center">  ⚡ Who Am I?⚡ </h1>
 
-> <strong> 1. </strong>  I Don't Chase Tech Stacks. I Build Systems That Make Them Useful.
+> <strong> 1. </strong>  ***I Don't Chase Tech Stacks. I Build Systems That Make Them Useful.***
 
 > <strong> 2. </strong> **Tech Arsenal**:  Block Chain, Quantum Application Dev, Java, Spring A.I, System Design (LLD && HLD), FrontEnd Systems, Docker, Full-Stack Databases, Chrome Extensions Dev, Creative-Friendly Dev, Testing Application. I will Adapt & Work any Tech Stack.
 
