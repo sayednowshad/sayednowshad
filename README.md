@@ -23,19 +23,19 @@
 </p> 
 
 <h1 align="center">  ⚡ Who Am I?⚡ </h1>
+<div align="center">
+ <strong>1.</strong> <b> I Build Systems. Tech Stacks Are Just Tools. </b>
+   
+ <strong>2.</strong> <b> Engineering Skills: Java, Spring, Spring Boot, Spring AI, System Design (LLD), Full-Stack Development, Databases, AWS, Docker, Blockchain concepts, Quantum Computing (Qiskit) concept's, Chrome Extension Dev. </b>
 
- <strong>1.</strong> I Build Systems. Tech Stacks Are Just Tools.
+ <strong>3.</strong> <b> Design Mindset: Architecture First, Scalability, Maintainability, End-to-End Product Thinking. </b>
 
- <strong>2.</strong> Engineering Skills: Java, Spring, Spring Boot, Spring AI, System Design (LLD), Full-Stack Development, Databases, AWS, Docker, Blockchain concepts, Quantum Computing (Qiskit) concept's, Chrome Extension Dev.
+ <strong>4.</strong> <b> Projects Built: AI Facial Treatment System, Resume Analyzer, Blockchain-Based Document Verification, Steganography Malicious Chat Detection, Quantum AI Trust Meter. </b>
 
- <strong>3.</strong> Design Mindset: Architecture First, Scalability, Maintainability, End-to-End Product Thinking.
+ <strong>5.</strong> <b> Focus: User Problems, Product Thinking, Engineering Excellence, Creative Execution. </b>
 
- <strong>4.</strong> Projects Built: AI Facial Treatment System, Resume Analyzer, Blockchain-Based Document Verification, Steganography Malicious Chat Detection, Quantum AI Trust Meter.
-
- <strong>5.</strong> Focus: User Problems, Product Thinking, Engineering Excellence, Creative Execution.
-
- <strong>6.</strong> Environment: Any IDE. Any Stack. Same Engineering Mindset.
-
+ <strong>6.</strong> <b> Environment: Any IDE. Any Stack. Same Engineering Mindset. </b>
+</div>
 <h1 align="center">  ⚡ Tools Of Titan ⚡ </h1>
 
 <p align="center">
