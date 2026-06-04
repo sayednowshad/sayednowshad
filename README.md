@@ -24,17 +24,17 @@
 
 <h1 align="center">  ⚡ Who Am I?⚡ </h1>
 
-> <strong> 1. </strong>  ***I Don't Chase Tech Stacks. I Build Systems That Make Them Useful.***
+ <strong>1.</strong> I Build Systems. Tech Stacks Are Just Tools.
 
-> <strong> 2. </strong> **Tech Arsenal**:  Block Chain, Quantum Application Dev, Java, Spring A.I, System Design (LLD && HLD), FrontEnd Systems, Docker, Full-Stack Databases, Chrome Extensions Dev, Creative-Friendly Dev, Testing Application. I will Adapt & Work any Tech Stack.
+ <strong>2.</strong> Engineering Skills: Java, Spring AI, System Design (LLD & HLD), Full-Stack Development, Databases, Docker, Blockchain, Quantum Computing (Qiskit), Frontend Engineering, Chrome Extensions, Testing & Automation.
 
-> <strong> 3. </strong> **Design Mindset**: System Design (LLD && HLD), End-to-End Project Planning, Creative Execution Mindset.
+ <strong>3.</strong> Design Mindset: Architecture First, Scalability, Maintainability, End-to-End Product Thinking.
 
-> <strong> 4. </strong>  **Projects Built & Worked On**: Startup Projects (Contributed), Facial Treatment A.I System (Python + A.I), Resume Analyzer (FSD + A.I), Docs Tampering SHA-256 (BlockChain + FSD), SteganoGraphy Malicious Chat Detection (Python + LLM + FSD), Quantum Circuit A.I Trust Meter Layer (IBM's Quantum Circuit - "Qiskit" + FSD + Python + A.I).
+ <strong>4.</strong> Projects Built: AI Facial Treatment System, Resume Analyzer, Blockchain-Based Document Verification, Steganography Malicious Chat Detection, Quantum AI Trust Meter.
 
-> <strong> 5. </strong>  **Focus**: It's definetly Creativity, Foucs on User Centric Problem & Creative Execution, Marketing with Business Model.
+ <strong>5.</strong> Focus: User Problems, Product Thinking, Engineering Excellence, Creative Execution.
 
-> <strong> 6. </strong>  **IDE's**: Notepad++ to JetBrains IntelliJ - any environment, same engineering mindset.
+ <strong>6.</strong> Environment: Any IDE. Any Stack. Same Engineering Mindset.
 
 <h1 align="center">  ⚡ Tools Of Titan ⚡ </h1>
 
