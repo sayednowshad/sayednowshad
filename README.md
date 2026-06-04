@@ -26,7 +26,7 @@
 
  <strong>1.</strong> I Build Systems. Tech Stacks Are Just Tools.
 
- <strong>2.</strong> Engineering Skills: Java, Spring AI, System Design (LLD & HLD), Full-Stack Development, Databases, Docker, Blockchain, Quantum Computing (Qiskit), Frontend Engineering, Chrome Extensions, Testing & Automation.
+ <strong>2.</strong> Engineering Skills: Java, Spring, Spring Boot, Spring AI, System Design (LLD), Full-Stack Development, Databases, AWS, Docker, Blockchain concepts, Quantum Computing (Qiskit) concept's, Chrome Extension Dev.
 
  <strong>3.</strong> Design Mindset: Architecture First, Scalability, Maintainability, End-to-End Product Thinking.
 
