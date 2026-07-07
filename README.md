@@ -46,7 +46,7 @@
 <h1 align="center">  ⚡ Current Statistics ⚡ </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayednowshad&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sayednowshad&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayednowshad&theme=radical&hide_border=true" width="48%" />
 </p>
 
