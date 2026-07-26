@@ -33,7 +33,7 @@
 
 <tr>
 <td><b> 1. Engineering Focus</b></td>
-<td>Backend Engineer passionate about building scalable systems, secure applications, AI-powered solutions, and intelligent automation.</td>
+<td>Backend Engineer Passionate About Building Scalable Systems, Secure Applications, AI-Powered Solutions, and Intelligent Automation.</td>
 </tr>
 
 <tr>
@@ -52,13 +52,14 @@
 </tr>
 
 <tr>
-<td><b> 5. UI/UX</b></td>
+  
+<td><b> 5. UI/UX </b></td>
 <td> Freelance UI/UX Projects • Figma • Adobe XD • Wireframing • Prototyping • User Experience Design </td>
 </tr>
 
 <tr>
 <td><b> 6. Engineering Mindset</b></td>
-<td>Architecture First • Scalability • Maintainability • SOLID Principles • Clean Code • End-to-End Product Development</td>
+<td>Architecture First • Scalability • Maintainability • SOLID Principles • Clean Code • End-to-End Development</td>
 </tr>
 
 <tr>
@@ -85,7 +86,7 @@
 
 <tr>
 <td><b> 10. Philosophy</b></td>
-<td>I build practical software by combining strong backend engineering, modern AI technologies, and scalable system architecture to solve real-world problems.</td>
+<td>I Build Practical Software By Combining Strong Backend Engineering, Modern AI Technologies & Scalable System Architecture To Solve Real-World Problems.</td>
 </tr>
 
 </table>
