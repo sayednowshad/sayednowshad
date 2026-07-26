@@ -22,20 +22,73 @@
    
 </p> 
 
-<h1 align="center">  ⚡ Who Am I?⚡ </h1>
-<div align="center">
- <strong>1.</strong> <b> I Build Systems. Tech Stacks Are Just Tools. </b>
-   
- <strong>2. Engineering Skills: </strong>  Core Java, Spring Boot, Spring AI, Backend + RAG, System Design (LLD), Full-Stack Development, Databases, AWS, Docker, Blockchain concepts, Chrome Extension Dev, UI/UX Freelancer. 
+<h1 align="center">⚡ Who Am I? ⚡</h1>
 
- <strong>3. Design Mindset: </strong> Architecture First, Scalability, Maintainability, End-to-End Product Thinking. 
+<table align="center">
 
- <strong>4. Projects Built: </strong> AI Facial Treatment System, Resume Analyzer, Blockchain-Based Document Verification, Steganography Malicious Chat Detection, Quantum AI Trust Meter. 
+<tr>
+<th width="220">Category</th>
+<th>Description</th>
+</tr>
 
- <strong>5. Focus:</strong> User Problems, Product Thinking, Engineering Excellence, Creative Execution.
+<tr>
+<td><b> 1. Engineering Focus</b></td>
+<td>Backend Engineer passionate about building scalable systems, secure applications, AI-powered solutions, and intelligent automation.</td>
+</tr>
 
- <strong>6. Environment: </strong>  Any IDE. Any Stack. Same Engineering Mindset. 
-</div>
+<tr>
+<td><b> 2. Core Skills</b></td>
+<td>Java • Spring Boot • Spring Security • Spring Data JPA • REST APIs • SQL • PostgreSQL • Hibernate • Maven • Docker • AWS • Git • GitHub</td>
+</tr>
+
+<tr>
+<td><b> 3. AI & LLM </b></td>
+<td>RAG Pipelines • Spring AI • Hugging Face • Vector Embeddings • FAISS • BM25 • Phi-3 Mini • Prompt Engineering • LLM Integration</td>
+</tr>
+
+<tr>
+<td><b> 4. Frontend</b></td>
+<td>React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Material UI • Responsive UI Design</td>
+</tr>
+
+<tr>
+<td><b> 5. UI/UX</b></td>
+<td> Freelance UI/UX Projects • Figma • Adobe XD • Wireframing • Prototyping • User Experience Design </td>
+</tr>
+
+<tr>
+<td><b> 6. Engineering Mindset</b></td>
+<td>Architecture First • Scalability • Maintainability • SOLID Principles • Clean Code • End-to-End Product Development</td>
+</tr>
+
+<tr>
+<td><b> 7. Featured Projects</b></td>
+<td>
+• StegoShield Gateway (Malicious Payload Detection) - Spring Boot, LSB Algorithm <br>
+• Hybrid Retrival (RAG & AI) - Spring Boot,  <br>
+• Blockchain Inspired Document Verification System - Java, Cryptography <br>
+• AI Trust Meter - Quantum Qiskit <br>
+• Student Resource Platform - React<br>
+• LinkedIn Chrome Extention - JavaScript
+</td>
+</tr>
+
+<tr>
+<td><b> 8. Tools & Platforms</b></td>
+<td>IntelliJ IDEA • VS Code • Postman • Swagger UI • Docker • GitHub • PostgreSQL • Vercel • Netlify</td>
+</tr>
+
+<tr>
+<td><b> 9. Current Interests</b></td>
+<td>AI Engineering • Backend Systems • Cybersecurity • System Design • Distributed Systems • Developer Tools</td>
+</tr>
+
+<tr>
+<td><b> 10. Philosophy</b></td>
+<td>I build practical software by combining strong backend engineering, modern AI technologies, and scalable system architecture to solve real-world problems.</td>
+</tr>
+
+</table>
 <h1 align="center">  ⚡ Tools Of Titan ⚡ </h1>
 
 <p align="center">
