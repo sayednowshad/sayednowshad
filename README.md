@@ -81,7 +81,7 @@
 
 <tr>
 <td><b> 9. Current Interests</b></td>
-<td>AI Engineering • Backend Systems • Cybersecurity • System Design • Distributed Systems • Developer Tools</td>
+<td> • Backend Systems • System Design • Distributed Systems • Developer Tools</td>
 </tr>
 
 <tr>
